@@ -1,23 +1,19 @@
-# IPL Data Analysis & Match Prediction
+# IPL Match Winner Prediction (ML Web App)
 
-## 📌 Overview
-This project analyzes IPL match data and predicts match winners using machine learning.
+## 🚀 Live App
+[Add your deployed link here]
 
-## 🛠 Tools
-- Python (Pandas, Matplotlib)
-- Scikit-learn
+## 📌 Features
+- Predict IPL match winner
+- Probability score
+- Interactive UI
 
-## 📊 Features
-- Team performance analysis
-- Toss impact analysis
-- Match winner prediction
+## 🧠 ML Model
+- Random Forest Classifier
 
-## 🤖 ML Model
-- Logistic Regression
-- Accuracy depends on dataset size
+## 🛠 Tech Stack
+- Python, Pandas, Scikit-learn
+- Streamlit
 
-## 🚀 Setup
-
-```bash
-pip install -r requirements.txt
-python main.py
+## ▶️ Run Locally
+streamlit run app.py
